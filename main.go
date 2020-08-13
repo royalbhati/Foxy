@@ -13,8 +13,8 @@ import (
 
 	"github.com/muesli/termenv"
 	"github.com/pkg/errors"
-	"github.com/royalbhati/go-tdm/metadata"
-	"github.com/royalbhati/go-tdm/progress"
+	"github.com/royalbhati/foxy/metadata"
+	"github.com/royalbhati/foxy/progress"
 )
 
 type Download struct {

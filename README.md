@@ -1,6 +1,6 @@
-# Go-TDM
+# Foxy
 
-Download manager written in Go with 10 parallel downloads
+Downloader written in Go with 10 concurrent requests
 
 ## Usage
 
@@ -8,5 +8,8 @@ Download manager written in Go with 10 parallel downloads
 
 # TO DO
 
+[] - Youtube support
+
 [] - Resume support
+
 [] - Custom Download dir
